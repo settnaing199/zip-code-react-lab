@@ -4,3 +4,17 @@
   color: white;
   text-align: center;
 }
+
+/*Card */
+.Card{
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.ZipSearch{
+  text-align: center;
+  margin-top: 20px;
+}
+.cityNotFound {
+  text-align: center;
+}
